@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="io.cucumber:cucumber-core:4.7.2" type="repository">
+    <properties maven-id="io.cucumber:cucumber-core:4.7.2" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/cucumber/cucumber-core/4.7.2/cucumber-core-4.7.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/cucumber/gherkin/5.1.0/gherkin-5.1.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/cucumber/tag-expressions/1.1.1/tag-expressions-1.1.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/cucumber/cucumber-expressions/7.0.2/cucumber-expressions-7.0.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/cucumber/datatable/1.1.14/datatable-1.1.14.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/cucumber/datatable-dependencies/1.1.14/datatable-dependencies-1.1.14.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
